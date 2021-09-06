@@ -469,7 +469,7 @@ a:hover {
 }
 
 #header.header-scrolled {
-  background: rgba(0, 0, 0, 0.9);
+  background: rgb(0, 89, 255);
   padding: 12px 0;
 }
 
@@ -784,7 +784,7 @@ a:hover {
 
 .hero-single .breadcrumb {
   background-color: transparent;
-  color: #0078ff;
+  color: #1100ff;
 }
 
 .hero-single .breadcrumb .breadcrumb-item:before {
@@ -823,7 +823,7 @@ a:hover {
 }
 
 .skill-mf span {
-  color: #4e4e4e;
+  color: #000000;
 }
 
 .skill-mf .progress {
@@ -881,7 +881,7 @@ a:hover {
 }
 
 .service-box .s-description {
-  color: #4e4e4e;
+  color: #000000;
 }
 
 /*--------------------------------------------------------------
@@ -942,7 +942,7 @@ a:hover {
 }
 
 .work-content .w-more {
-  color: #4e4e4e;
+  color: #000000;
   font-size: .8rem;
 }
 
@@ -998,7 +998,7 @@ a:hover {
 
 .portfolio-details .portfolio-info {
   padding: 30px;
-  box-shadow: 0px 0 30px rgba(78, 78, 78, 0.08);
+  box-shadow: 0px 0 30px rgb(0, 0, 0);
 }
 
 .portfolio-details .portfolio-info h3 {
